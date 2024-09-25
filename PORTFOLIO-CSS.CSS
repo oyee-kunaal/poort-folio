@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 box-sizing: border-box;
-background: url(assest/buggati.jpg);
+background: url();
 }
 
 .M-parent{
@@ -100,7 +100,7 @@ text-shadow: -2px -2px 4px #fff, 2px 2px 4px #000;
     width: 99%;
     margin: 10px;
    
-    background-image: url(buggati.jpg);
+    background-image: url(assest/buggati.jpg);
 background-repeat: no-repeat;
 border-image-repeat: stretch;
 background-position: right;
@@ -279,7 +279,7 @@ padding-bottom: 20px;
 }
 
 .resumepic{
-    background: url(kunal\ Resume.jpeg.jpeg);
+    background: url(assest/kunal\ Resume.jpeg.jpeg);
     background-repeat: no-repeat;
     height: 617px;
    width: 67%;
